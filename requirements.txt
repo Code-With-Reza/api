@@ -1,5 +1,3 @@
 flask
 markdown
 requests
-re
-json
