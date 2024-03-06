@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PyAutoGUI Button Example</title>
+</head>
+<body>
+    <h1>PyAutoGUI Button Example</h1>
+    <button onclick="copyText()">Copy Text</button>
+    <button onclick="pasteText()">Paste Text</button>
+
+    <script>
+        function copyText() {
+            fetch('/copy').then(response => console.log(response));
+        }
+
+        function pasteText() {
+            fetch('/paste').then(response => console.log(response));
+        }
+    </script>
+</body>
+</html>

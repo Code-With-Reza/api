@@ -1,0 +1,595 @@
+[{
+    "index": "1",
+    "latin": "Ar Rahman",
+    "ar": "الرحمن",
+    "id": "Yang Maha Pengasih",
+    "en": "The Beneficent"
+  }, {
+    "index": "2",
+    "latin": "Ar Rahiim",
+    "ar": "الرحيم",
+    "id": "Yang Maha Penyayang",
+    "en": "The Merciful"
+  }, {
+    "index": "3",
+    "latin": "Al Malik",
+    "ar": "الملك",
+    "id": "Yang Maha Merajai / Memerintah",
+    "en": "The King \/ Eternal Lord"
+  }, {
+    "index": "4",
+    "latin": "Al Quddus",
+    "ar": "القدوس",
+    "id": "Yang Maha Suci",
+    "en": "The Purest"
+  }, {
+    "index": "5",
+    "latin": "As Salaam",
+    "ar": "السلام",
+    "id": "Yang Maha Memberi Kesejahteraan",
+    "en": "The Source of Peace"
+  }, {
+    "index": "6",
+    "latin": "Al Mu'min",
+    "ar": "المؤمن",
+    "id": "Yang Maha Memberi Keamanan",
+    "en": "The inspirer of faith"
+  }, {
+    "index": "7",
+    "latin": "Al Muhaimin",
+    "ar": "المهيمن",
+    "id": "Yang Maha Pemelihara",
+    "en": "The Guardian"
+  }, {
+    "index": "8",
+    "latin": "Al'Aziiz",
+    "ar": "العزيز",
+    "id": "Yang Maha Perkasa",
+    "en": "The Precious \/ The Most Mighty"
+  }, {
+    "index": "9",
+    "latin": "Al Jabbar",
+    "ar": "الجبار",
+    "id": "Yang Memiliki Mutlak Kegagahan",
+    "en": "The Compeller"
+  }, {
+    "index": "10",
+    "latin": "Al Mutakabbir",
+    "ar": "المتكبر",
+    "id": "Yang Maha Megah, Yang Memiliki Kebesaran",
+    "en": "The Greatest"
+  }, {
+    "index": "11",
+    "latin": "Al Khaliq",
+    "ar": "الخالق",
+    "id": "Yang Maha Pencipta",
+    "en": "The Creator"
+  }, {
+    "index": "12",
+    "latin": "Al Baari'",
+    "ar": "البارئ",
+    "id": "Yang Maha Melepaskan(Membuat, Membentuk, Menyeimbangkan)",
+    "en": "The Maker of Order"
+  }, {
+    "index": "13",
+    "latin": "Al Mushawwir",
+    "ar": "المصور",
+    "id": "Yang Maha Membentuk Rupa(makhluknya)",
+    "en": "The Shaper of Beauty"
+  }, {
+    "index": "14",
+    "latin": "Al Ghaffaar",
+    "ar": "الغفار",
+    "id": "Yang Maha Pengampun",
+    "en": "The Forgiving"
+  }, {
+    "index": "15",
+    "latin": "Al Qahhaar",
+    "ar": "القهار",
+    "id": "Yang Maha Memaksa",
+    "en": "The Subduer"
+  }, {
+    "index": "16",
+    "latin": "Al Wahhaab",
+    "ar": "الوهاب",
+    "id": "Yang Maha Pemberi Karunia",
+    "en": "The Giver of All"
+  }, {
+    "index": "17",
+    "latin": "Ar Razzaaq",
+    "ar": "الرزاق",
+    "id": "Yang Maha Pemberi Rezeki",
+    "en": "The Sustainer"
+  }, {
+    "index": "18",
+    "latin": "Al Fattaah",
+    "ar": "الفتاح",
+    "id": "Yang Maha Pembuka Rahmat",
+    "en": "The Opener"
+  }, {
+    "index": "19",
+    "latin": "Al'Aliim",
+    "ar": "العليم",
+    "id": "Yang Maha Mengetahui(Memiliki Ilmu)",
+    "en": "The Knower of all"
+  }, {
+    "index": "20",
+    "latin": "Al Qaabidh",
+    "ar": "القابض",
+    "id": "Yang Maha Menyempitkan(makhluknya)",
+    "en": "The Constrictor"
+  }, {
+    "index": "21",
+    "latin": "Al Baasith",
+    "ar": "الباسط",
+    "id": "Yang Maha Melapangkan(makhluknya)",
+    "en": "The Reliever"
+  }, {
+    "index": "22",
+    "latin": "Al Khaafidh",
+    "ar": "الخافض",
+    "id": "Yang Maha Merendahkan(makhluknya)",
+    "en": "The Abaser"
+  }, {
+    "index": "23",
+    "latin": "Ar Raafi'",
+    "ar": "الرافع",
+    "id": "Yang Maha Meninggikan(makhluknya)",
+    "en": "The Exalter"
+  }, {
+    "index": "24",
+    "latin": "Al Mu'izz",
+    "ar": "المعز",
+    "id": "Yang Maha Memuliakan(makhluknya)",
+    "en": "The Bestower of Honour"
+  }, {
+    "index": "25",
+    "latin": "Al Mudzil",
+    "ar": "المذل",
+    "id": "Yang Maha Menghinakan(makhluknya)",
+    "en": "The Humiliator"
+  }, {
+    "index": "26",
+    "latin": "Al Samii'",
+    "ar": "السميع",
+    "id": "Yang Maha Mendengar",
+    "en": "The Hearer of all"
+  }, {
+    "index": "27",
+    "latin": "Al Bashiir",
+    "ar": "البصير",
+    "id": "Yang Maha Melihat",
+    "en": "The Seer of all"
+  }, {
+    "index": "28",
+    "latin": "Al Hakam",
+    "ar": "الحكم",
+    "id": "Yang Maha Menetapkan",
+    "en": "The Judge"
+  }, {
+    "index": "29",
+    "latin": "Al'Adl",
+    "ar": "العدل",
+    "id": "Yang Maha Adil",
+    "en": "The Just"
+  }, {
+    "index": "30",
+    "latin": "Al Lathiif",
+    "ar": "اللطيف",
+    "id": "Yang Maha Lembut",
+    "en": "The Subtle One"
+  }, {
+    "index": "31",
+    "latin": "Al Khabiir",
+    "ar": "الخبير",
+    "id": "Yang Maha Mengenal",
+    "en": "The All Aware"
+  }, {
+    "index": "32",
+    "latin": "Al Haliim",
+    "ar": "الحليم",
+    "id": "Yang Maha Penyantun",
+    "en": "The Forebearing"
+  }, {
+    "index": "33",
+    "latin": "Al'Azhiim",
+    "ar": "العظيم",
+    "id": "Yang Maha Agung",
+    "en": "The Maginificent"
+  }, {
+    "index": "34",
+    "latin": "Al Ghafuur",
+    "ar": "الغفور",
+    "id": "Yang Maha Pengampun",
+    "en": "The Great Forgiver"
+  }, {
+    "index": "35",
+    "latin": "As Syakuur",
+    "ar": "الشكور",
+    "id": "Yang Maha Pembalas Budi(Menghargai)",
+    "en": "The Rewarder of Thankfulness"
+  }, {
+    "index": "36",
+    "latin": "Al'Aliy",
+    "ar": "العلى",
+    "id": "Yang Maha Tinggi",
+    "en": "The Highest"
+  }, {
+    "index": "37",
+    "latin": "Al Kabiir",
+    "ar": "الكبير",
+    "id": "Yang Maha Besar",
+    "en": "The Greatest"
+  }, {
+    "index": "38",
+    "latin": "Al Hafizh",
+    "ar": "الحفيظ",
+    "id": "Yang Maha Memelihara",
+    "en": "The Preserver"
+  }, {
+    "index": "39",
+    "latin": "Al Muqiit",
+    "ar": "المقيت",
+    "id": "Yang Maha Pemberi Kecukupan",
+    "en": "The Sustainer"
+  }, {
+    "index": "40",
+    "latin": "Al Hasiib",
+    "ar": "الحسيب",
+    "id": "Yang Maha Membuat Perhitungan",
+    "en": "The Reckoner, The Sufficient"
+  }, {
+    "index": "41",
+    "latin": "Al Jaliil",
+    "ar": "الجليل",
+    "id": "Yang Maha Mulia",
+    "en": "The Majestic"
+  }, {
+    "index": "42",
+    "latin": "Al Kariim",
+    "ar": "الكريم",
+    "id": "Yang Maha Mulia",
+    "en": "The Most Generous, The Most Esteemed"
+  }, {
+    "index": "43",
+    "latin": "Ar Raqiib",
+    "ar": "الرقيب",
+    "id": "Yang Maha Mengawasi",
+    "en": "The Watchful One"
+  }, {
+    "index": "44",
+    "latin": "Al Mujiib",
+    "ar": "المجيب",
+    "id": "Yang Maha Mengabulkan",
+    "en": "Responder to Prayer"
+  }, {
+    "index": "45",
+    "latin": "Al Waasi'",
+    "ar": "الواسع",
+    "id": "Yang Maha Luas",
+    "en": "The All-Encompassing, the Boundless"
+  }, {
+    "index": "46",
+    "latin": "Al Hakiim",
+    "ar": "الحكيم",
+    "id": "Yang Maha Maka Bijaksana",
+    "en": "The Perfectly Wise"
+  }, {
+    "index": "47",
+    "latin": "Al Waduud",
+    "ar": "الودود",
+    "id": "Yang Maha Mengasihi",
+    "en": "The Most Loving"
+  }, {
+    "index": "48",
+    "latin": "Al Majiid",
+    "ar": "المجيد",
+    "id": "Yang Maha Mulia",
+    "en": "The Glorious One, The Most Honorable"
+  }, {
+    "index": "49",
+    "latin": "Al Baa'its",
+    "ar": "الباعث",
+    "id": "Yang Maha Membangkitkan",
+    "en": "The Resurrector"
+  }, {
+    "index": "50",
+    "latin": "As Syahiid",
+    "ar": "الشهيد",
+    "id": "Yang Maha Menyaksikan",
+    "en": "The Witness"
+  }, {
+    "index": "51",
+    "latin": "Al Haqq",
+    "ar": "الحق",
+    "id": "Yang Maha Benar",
+    "en": "The Truth"
+  }, {
+    "index": "52",
+    "latin": "Al Wakiil",
+    "ar": "الوكيل",
+    "id": "Yang Maha Memelihara",
+    "en": "The Trustee"
+  }, {
+    "index": "53",
+    "latin": "Al Qawiyyu",
+    "ar": "القوى",
+    "id": "Yang Maha Kuat",
+    "en": "The Possessor of all strength"
+  }, {
+    "index": "54",
+    "latin": "Al Matiin",
+    "ar": "المتين",
+    "id": "Yang Maha Kokoh",
+    "en": "The Forceful"
+  }, {
+    "index": "55",
+    "latin": "Al Waliyy",
+    "ar": "الولى",
+    "id": "Yang Maha Melindungi",
+    "en": "The Protector"
+  }, {
+    "index": "56",
+    "latin": "Al Hamiid",
+    "ar": "الحميد",
+    "id": "Yang Maha Terpuji",
+    "en": "The Praised"
+  }, {
+    "index": "57",
+    "latin": "Al Muhshii",
+    "ar": "المحصى",
+    "id": "Yang Maha Mengalkulasi(Menghitung Segala Sesuatu)",
+    "en": "The All-Enumerating, The Counter"
+  }, {
+    "index": "58",
+    "latin": "Al Mubdi'",
+    "ar": "المبدئ",
+    "id": "Yang Maha Memulai",
+    "en": "The Originator"
+  }, {
+    "index": "59",
+    "latin": "Al Mu'iid",
+    "ar": "المعيد",
+    "id": "Yang Maha Mengembalikan Kehidupan",
+    "en": "The Restorer"
+  }, {
+    "index": "60",
+    "latin": "Al Muhyii",
+    "ar": "المحيى",
+    "id": "Yang Maha Menghidupkan",
+    "en": "The Giver of life"
+  }, {
+    "index": "61",
+    "latin": "Al Mumiitu",
+    "ar": "المميت",
+    "id": "Yang Maha Mematikan",
+    "en": "The Taker of life"
+  }, {
+    "index": "62",
+    "latin": "Al Hayyu",
+    "ar": "الحي",
+    "id": "Yang Maha Hidup",
+    "en": "The Ever Living"
+  }, {
+    "index": "63",
+    "latin": "Al Qayyuum",
+    "ar": "القيوم",
+    "id": "Yang Maha Mandiri",
+    "en": "The Self Existing"
+  }, {
+    "index": "64",
+    "latin": "Al Waajid",
+    "ar": "الواجد",
+    "id": "Yang Maha Penemu",
+    "en": "The Perceiver"
+  }, {
+    "index": "65",
+    "latin": "Al Maajid",
+    "ar": "الماجد",
+    "id": "Yang Maha Mulia",
+    "en": "The Glorious"
+  }, {
+    "index": "66",
+    "latin": "Al Wahiid",
+    "ar": "الواحد",
+    "id": "Yang Maha Tunggal",
+    "en": "The Only One"
+  }, {
+    "index": "67",
+    "latin": "Al Ahad",
+    "ar": "الاحد",
+    "id": "Yang Maha Esa",
+    "en": "The One"
+  }, {
+    "index": "68",
+    "latin": "As Shamad",
+    "ar": "الصمد",
+    "id": "Yang Maha Dibutuhkan, Tempat Meminta",
+    "en": "The Supreme Provider"
+  }, {
+    "index": "69",
+    "latin": "Al Qaadir",
+    "ar": "القادر",
+    "id": "Yang Maha Menentukan, Maha Menyeimbangkan",
+    "en": "The Powerful"
+  }, {
+    "index": "70",
+    "latin": "Al Muqtadir",
+    "ar": "المقتدر",
+    "id": "Yang Maha Berkuasa",
+    "en": "The Creator of all power"
+  }, {
+    "index": "71",
+    "latin": "Al Muqaddim",
+    "ar": "المقدم",
+    "id": "Yang Maha Mendahulukan",
+    "en": "The Expediter"
+  }, {
+    "index": "72",
+    "latin": "Al Mu'akkhir",
+    "ar": "المؤخر",
+    "id": "Yang Maha Mengakhirkan",
+    "en": "The Delayer"
+  }, {
+    "index": "73",
+    "latin": "Al Awwal",
+    "ar": "الأول",
+    "id": "Yang Maha Awal",
+    "en": "The First"
+  }, {
+    "index": "74",
+    "latin": "Al Aakhir",
+    "ar": "الأخر",
+    "id": "Yang Maha Akhir",
+    "en": "The Last"
+  }, {
+    "index": "75",
+    "latin": "Az Zhaahir",
+    "ar": "الظاهر",
+    "id": "Yang Maha Nyata",
+    "en": "The Manifest"
+  }, {
+    "index": "76",
+    "latin": "Al Baathin",
+    "ar": "الباطن",
+    "id": "Yang Maha Ghaib",
+    "en": "The Hidden"
+  }, {
+    "index": "77",
+    "latin": "Al Waali",
+    "ar": "الوالي",
+    "id": "Yang Maha Memerintah",
+    "en": "The Governor"
+  }, {
+    "index": "78",
+    "latin": "Al Muta'aalii",
+    "ar": "المتعالي",
+    "id": "Yang Maha Tinggi",
+    "en": "The Supreme One"
+  }, {
+    "index": "79",
+    "latin": "Al Barru",
+    "ar": "البر",
+    "id": "Yang Maha Penderma(Maha Pemberi Kebajikan)",
+    "en": "The Doer of Good"
+  }, {
+    "index": "80",
+    "latin": "At Tawwaab",
+    "ar": "التواب",
+    "id": "Yang Maha Penerima Tobat",
+    "en": "The Guide to Repentence"
+  }, {
+    "index": "81",
+    "latin": "Al Muntaqim",
+    "ar": "المنتقم",
+    "id": "Yang Maha Pemberi Balasan",
+    "en": "The Avenger"
+  }, {
+    "index": "82",
+    "latin": "Al Afuww",
+    "ar": "العفو",
+    "id": "Yang Maha Pemaaf",
+    "en": "The Forgiver"
+  }, {
+    "index": "83",
+    "latin": "Ar Ra'uuf",
+    "ar": "الرؤوف",
+    "id": "Yang Maha Pengasuh",
+    "en": "The Most Kind"
+  }, {
+    "index": "84",
+    "latin": "Malikul Mulk",
+    "ar": "مالك الملك",
+    "id": "Yang Maha Penguasa Kerajaan(Semesta)",
+    "en": "The Owner \/ Soverign of All"
+  }, {
+    "index": "85",
+    "latin": "Dzul Jalaali Wal Ikraam",
+    "ar": "ذو الجلال و الإكرام",
+    "id": "Yang Maha Pemilik Kebesaran dan Kemuliaan",
+    "en": "Possessor of Majesty and Bounty"
+  }, {
+    "index": "86",
+    "latin": "Al Muqsith",
+    "ar": "المقسط",
+    "id": "Yang Maha Pemberi Keadilan",
+    "en": "The Equitable One"
+  }, {
+    "index": "87",
+    "latin": "Al Jamii'",
+    "ar": "الجامع",
+    "id": "Yang Maha Mengumpulkan",
+    "en": "The Gatherer"
+  }, {
+    "index": "88",
+    "latin": "Al Ghaniyy",
+    "ar": "الغنى",
+    "id": "Yang Maha Kaya",
+    "en": "The Rich One"
+  }, {
+    "index": "89",
+    "latin": "Al Mughnii",
+    "ar": "المغنى",
+    "id": "Yang Maha Pemberi Kekayaan",
+    "en": "The Enricher"
+  }, {
+    "index": "90",
+    "latin": "Al Maani",
+    "ar": "المانع",
+    "id": "Yang Maha Mencegah",
+    "en": "The Preventer of harm"
+  }, {
+    "index": "91",
+    "latin": "Ad Dhaar",
+    "ar": "الضار",
+    "id": "Yang Maha Penimpa Kemudharatan",
+    "en": "The Creator of the harmful"
+  }, {
+    "index": "92",
+    "latin": "An Nafii'",
+    "ar": "النافع",
+    "id": "Yang Maha Memberi Manfaat",
+    "en": "The Bestower of Benefits"
+  }, {
+    "index": "93",
+    "latin": "An Nuur",
+    "ar": "النور",
+    "id": "Yang Maha Bercahaya(Menerangi, Memberi Cahaya)",
+    "en": "The Light"
+  }, {
+    "index": "94",
+    "latin": "Al Haadii",
+    "ar": "الهادئ",
+    "id": "Yang Maha Pemberi Petunjuk",
+    "en": "The Guider"
+  }, {
+    "index": "95",
+    "latin": "Al Badii'",
+    "ar": "البديع",
+    "id": "Yang Maha Pencipta Yang Tiada Bandingannya",
+    "en": "The Incomparable Originator"
+  }, {
+    "index": "96",
+    "latin": "Al Baaqii",
+    "ar": "الباقي",
+    "id": "Yang Maha Kekal",
+    "en": "The Everlasting One"
+  }, {
+    "index": "97",
+    "latin": "Al Waarits",
+    "ar": "الوارث",
+    "id": "Yang Maha Pewaris",
+    "en": "The Inhertior"
+  }, {
+    "index": "98",
+    "latin": "Ar Rasyiid",
+    "ar": "الرشيد",
+    "id": "Yang Maha Pandai",
+    "en": "The Most Righteous Guide"
+  }, {
+    "index": "99",
+    "latin": "As Shabuur",
+    "ar": "الصبور",
+    "id": "Yang Maha Sabar",
+    "en": "The Patient One"
+  }]
