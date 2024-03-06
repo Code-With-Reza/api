@@ -1,20 +1,13 @@
 # API for my App
 ## Islami
-- Asmaul Husna
-- Audio Ayat
-- Audio Surah
-- Ayat
-- Ayat 2
-- Detail Hadits
-- Jadwal Sholat
-- Kisah Nabi
-- List Kata
-- List Surah
-- Niat Sholat
-- Search Hadits
-- Surah
+- [x] Asmaul Husna
+- [x] Audio Ayat
+- [x] Audio Surah
+- [x] Ayat
+- [x] Surah
+- [x] Jadwal Sholat
 ## Downloader
-- APK Downloader
+- [x] APK Downloader
 - Cocofun
 - Facebook
 - Instagram
