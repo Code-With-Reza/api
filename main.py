@@ -3,6 +3,7 @@ import markdown
 import os
 from api.islami import get_asmaul_husna, get_quran_audio, get_ayat_quran, get_list_quran, get_jadwal  # Importing the function from islami.py
 from api.downloader import get_apk
+from api.information import get_country
 import requests
 
 app = Flask(__name__)
@@ -114,6 +115,14 @@ def apk_downloader():
     # Assuming get_apk returns the APK data as a response
     return Response(apk_data, status=200, content_type='application/json')
 
+@app.route("/api/callingcode/<string:nomor>", methods=["GET"])
+def get_calling_code(nomor):
+    try:
+        response = get_country("phone",nomor)
+        print("/api/callingcode/:str")
+        return Response(response, status=200, content_type='application/json')
+    except Exception as e:
+        return jsonify({"status": str(e)}), 500
     
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=3000)
