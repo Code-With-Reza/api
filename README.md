@@ -36,7 +36,7 @@
 - Youtube Video
 - Youtube Video 2
 ## Information
-- Calling Code
+- [x] Calling Code
 - Chord
 - Countdown Date
 - Cuaca 1
