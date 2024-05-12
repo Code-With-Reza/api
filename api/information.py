@@ -21,7 +21,7 @@ def get_country(data, param):
     else:
         result["status"] = 400
         result["message"] = "Invalid data parameter"
-        return result
+        return json.dumps(result, indent=4, ensure_ascii=False)
 
     if country:
         result["result"]["name"] = country["country_name"]
@@ -34,4 +34,4 @@ def get_country(data, param):
         result["status"] = 404
         result["message"] = "Country not found"
 
-    return result
+    return json.dumps(result, indent=4, ensure_ascii=False)
