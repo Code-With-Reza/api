@@ -1,5 +1,4 @@
-import sys
-import main
+import subprocess
 
 if __name__ == '__main__':
-    main.run_server()
+    subprocess.run(["python", "main.py"])
