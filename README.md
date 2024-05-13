@@ -38,7 +38,7 @@
 ## Information
 - [x] Calling Code
 - Chord
-- Countdown Date
+- [x] Countdown Date
 - Cuaca 1
 - Cuaca 2
 - GSMArena
