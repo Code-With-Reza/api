@@ -3,7 +3,7 @@ import markdown
 import os
 from api.islami import get_asmaul_husna, get_quran_audio, get_ayat_quran, get_list_quran, get_jadwal  # Importing the function from islami.py
 from api.downloader import get_apk
-from api.information import get_country
+from api.information import get_country, get_countdown
 import requests
 
 app = Flask(__name__)
@@ -120,6 +120,15 @@ def get_calling_code(nomor):
     try:
         response = get_country("phone",nomor)
         print("/api/callingcode/:str")
+        return Response(response, status=200, content_type='application/json')
+    except Exception as e:
+        return jsonify({"status": str(e)}), 500
+    
+@app.route('/api/countdown/<string:day>/<string:month>/<string:year>', methods=["GET"])
+def do_countdown(day, month, year):
+    try:
+        response = get_countdown(day,month,year)
+        print("/api/countdown/:str/:str/:str")
         return Response(response, status=200, content_type='application/json')
     except Exception as e:
         return jsonify({"status": str(e)}), 500
